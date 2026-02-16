@@ -49,7 +49,7 @@
     "@slack/web-api": "^6.9.0",
     "drizzle-orm": "0.39.1",
     "drizzle-zod": "0.5.1",
-    "hono": "4.6.5",
+    "hono": "4.11.7",
     "luxon": "3.5.0",
     "minimatch": "^9.0.4",
     "octokit": "^4.0.2",
@@ -59,7 +59,7 @@
     "remeda": "^2.17.3",
     "source-map": "^0.7.4",
     "stripe": "16.8.0",
-    "undici": "^5.22.0",
+    "undici": "^7.22.0",
     "zod": "3.24.1"
   }
 }
