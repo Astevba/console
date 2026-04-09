@@ -4,7 +4,7 @@
   "type": "module",
   "dependencies": {
     "@console/core": "workspace:*",
-    "drizzle-orm": "0.39.1",
+    "drizzle-orm": "0.45.2",
     "planetscale-stream-ts": "^1.1.0",
     "sst": "3.12.5"
   }
